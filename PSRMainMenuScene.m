@@ -86,6 +86,15 @@
     return self;
 }
 
+- (void)onEnter
+{
+    [super onEnter];
+    [[OALSimpleAudio sharedInstance] playBg:@"disco song.mp3"
+                                     volume:1
+                                        pan:0
+                                       loop:0];
+}
+
 // -----------------------------------------------------------------------
 #pragma mark - Button Callbacks
 // -----------------------------------------------------------------------

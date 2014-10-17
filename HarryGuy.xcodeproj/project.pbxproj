@@ -49,6 +49,7 @@
 		FE5DB27119F1836E00C0C3C9 /* titles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25919F1836E00C0C3C9 /* titles.mp3 */; };
 		FE5DB27219F1836E00C0C3C9 /* Weird Bird song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25A19F1836E00C0C3C9 /* Weird Bird song.mp3 */; };
 		FE5DB27519F1856800C0C3C9 /* PSRPiterDreamScene.m in Sources */ = {isa = PBXBuildFile; fileRef = FE5DB27419F1856800C0C3C9 /* PSRPiterDreamScene.m */; };
+		FE5DB27819F18D5C00C0C3C9 /* HighScoreScene.m in Sources */ = {isa = PBXBuildFile; fileRef = FE5DB27719F18D5C00C0C3C9 /* HighScoreScene.m */; };
 		FE675D1419F17F99000BCA08 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D1319F17F99000BCA08 /* QuartzCore.framework */; };
 		FE675D1619F17F99000BCA08 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D1519F17F99000BCA08 /* OpenGLES.framework */; };
 		FE675D1819F17F99000BCA08 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D1719F17F99000BCA08 /* OpenAL.framework */; };
@@ -298,6 +299,8 @@
 		FE5DB25A19F1836E00C0C3C9 /* Weird Bird song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Weird Bird song.mp3"; path = "Resources/Weird Bird song.mp3"; sourceTree = "<group>"; };
 		FE5DB27319F1856800C0C3C9 /* PSRPiterDreamScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PSRPiterDreamScene.h; path = ../PSRPiterDreamScene.h; sourceTree = "<group>"; };
 		FE5DB27419F1856800C0C3C9 /* PSRPiterDreamScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PSRPiterDreamScene.m; path = ../PSRPiterDreamScene.m; sourceTree = "<group>"; };
+		FE5DB27619F18D5C00C0C3C9 /* HighScoreScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HighScoreScene.h; sourceTree = "<group>"; };
+		FE5DB27719F18D5C00C0C3C9 /* HighScoreScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HighScoreScene.m; sourceTree = "<group>"; };
 		FE675D1019F17F99000BCA08 /* HarryGuy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HarryGuy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE675D1319F17F99000BCA08 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		FE675D1519F17F99000BCA08 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -783,6 +786,8 @@
 				FE675FA219F1812E000BCA08 /* PSRMainMenuScene.m */,
 				FE5DB27319F1856800C0C3C9 /* PSRPiterDreamScene.h */,
 				FE5DB27419F1856800C0C3C9 /* PSRPiterDreamScene.m */,
+				FE5DB27619F18D5C00C0C3C9 /* HighScoreScene.h */,
+				FE5DB27719F18D5C00C0C3C9 /* HighScoreScene.m */,
 				FE675D2E19F17F99000BCA08 /* Resources */,
 				FE675D5719F17F99000BCA08 /* Libraries */,
 				FE675F8C19F17F9C000BCA08 /* Classes */,
@@ -1832,6 +1837,7 @@
 				FE675E9519F17F9A000BCA08 /* OALAudioActions.m in Sources */,
 				FE675F8F19F17F9C000BCA08 /* AppDelegate.m in Sources */,
 				FE675E4619F17F9A000BCA08 /* CCDirectorIOS.m in Sources */,
+				FE5DB27819F18D5C00C0C3C9 /* HighScoreScene.m in Sources */,
 				FE675DE019F17F9A000BCA08 /* CCParticleBatchNode.m in Sources */,
 				FE675E7A19F17F9A000BCA08 /* NSAttributedString+CCAdditions.m in Sources */,
 				FE675F8B19F17F9C000BCA08 /* main.m in Sources */,
