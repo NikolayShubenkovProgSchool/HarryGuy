@@ -7,6 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE5DB23219F1836400C0C3C9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22019F1836400C0C3C9 /* Default-568h@2x.png */; };
+		FE5DB23319F1836400C0C3C9 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22119F1836400C0C3C9 /* Default-Landscape~ipad.png */; };
+		FE5DB23419F1836400C0C3C9 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22219F1836400C0C3C9 /* Default.png */; };
+		FE5DB23519F1836400C0C3C9 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22319F1836400C0C3C9 /* Default@2x.png */; };
+		FE5DB23619F1836400C0C3C9 /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22519F1836400C0C3C9 /* Icon-120.png */; };
+		FE5DB23719F1836400C0C3C9 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22619F1836400C0C3C9 /* Icon-72.png */; };
+		FE5DB23819F1836400C0C3C9 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22719F1836400C0C3C9 /* Icon-72@2x.png */; };
+		FE5DB23919F1836400C0C3C9 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22819F1836400C0C3C9 /* Icon-76.png */; };
+		FE5DB23A19F1836400C0C3C9 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22919F1836400C0C3C9 /* Icon-76@2x.png */; };
+		FE5DB23B19F1836400C0C3C9 /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22A19F1836400C0C3C9 /* Icon-iPad-Spotlight-iOS7@2x.png */; };
+		FE5DB23C19F1836400C0C3C9 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22B19F1836400C0C3C9 /* Icon-Small-50.png */; };
+		FE5DB23D19F1836400C0C3C9 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22C19F1836400C0C3C9 /* Icon-Small.png */; };
+		FE5DB23E19F1836400C0C3C9 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22D19F1836400C0C3C9 /* Icon-Small@2x.png */; };
+		FE5DB23F19F1836400C0C3C9 /* Icon-Spotlight-iOS7.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22E19F1836400C0C3C9 /* Icon-Spotlight-iOS7.png */; };
+		FE5DB24019F1836400C0C3C9 /* Icon-Spotlight-iOS7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB22F19F1836400C0C3C9 /* Icon-Spotlight-iOS7@2x.png */; };
+		FE5DB24119F1836400C0C3C9 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB23019F1836400C0C3C9 /* Icon.png */; };
+		FE5DB24219F1836400C0C3C9 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB23119F1836400C0C3C9 /* Icon@2x.png */; };
+		FE5DB25B19F1836E00C0C3C9 /* about.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24319F1836E00C0C3C9 /* about.png */; };
+		FE5DB25C19F1836E00C0C3C9 /* disco song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24419F1836E00C0C3C9 /* disco song.mp3 */; };
+		FE5DB25D19F1836E00C0C3C9 /* donut_small.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24519F1836E00C0C3C9 /* donut_small.png */; };
+		FE5DB25E19F1836E00C0C3C9 /* family-guy-mobile-game.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24619F1836E00C0C3C9 /* family-guy-mobile-game.jpg */; };
+		FE5DB25F19F1836E00C0C3C9 /* lake.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24719F1836E00C0C3C9 /* lake.png */; };
+		FE5DB26019F1836E00C0C3C9 /* MarioTube_Body_Rev.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24819F1836E00C0C3C9 /* MarioTube_Body_Rev.png */; };
+		FE5DB26119F1836E00C0C3C9 /* MarioTube_Body.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24919F1836E00C0C3C9 /* MarioTube_Body.png */; };
+		FE5DB26219F1836E00C0C3C9 /* MarioTube_Down.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24A19F1836E00C0C3C9 /* MarioTube_Down.png */; };
+		FE5DB26319F1836E00C0C3C9 /* MarioTube_Top.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24B19F1836E00C0C3C9 /* MarioTube_Top.png */; };
+		FE5DB26419F1836E00C0C3C9 /* MarioTubePlant_2_closed_Rev.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24C19F1836E00C0C3C9 /* MarioTubePlant_2_closed_Rev.png */; };
+		FE5DB26519F1836E00C0C3C9 /* MarioTubePlant_2_closed.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24D19F1836E00C0C3C9 /* MarioTubePlant_2_closed.png */; };
+		FE5DB26619F1836E00C0C3C9 /* MarioTubePlant_2_open_Rev.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24E19F1836E00C0C3C9 /* MarioTubePlant_2_open_Rev.png */; };
+		FE5DB26719F1836E00C0C3C9 /* MarioTubePlant_2_open.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB24F19F1836E00C0C3C9 /* MarioTubePlant_2_open.png */; };
+		FE5DB26819F1836E00C0C3C9 /* MarioTubePlant_closed_Rev.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25019F1836E00C0C3C9 /* MarioTubePlant_closed_Rev.png */; };
+		FE5DB26919F1836E00C0C3C9 /* MarioTubePlant_closed.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25119F1836E00C0C3C9 /* MarioTubePlant_closed.png */; };
+		FE5DB26A19F1836E00C0C3C9 /* MarioTubePlant_open_Rev.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25219F1836E00C0C3C9 /* MarioTubePlant_open_Rev.png */; };
+		FE5DB26B19F1836E00C0C3C9 /* MarioTubePlant_open.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25319F1836E00C0C3C9 /* MarioTubePlant_open.png */; };
+		FE5DB26C19F1836E00C0C3C9 /* menu@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25419F1836E00C0C3C9 /* menu@2x.jpg */; };
+		FE5DB26D19F1836E00C0C3C9 /* piter lauph samples.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25519F1836E00C0C3C9 /* piter lauph samples.mp3 */; };
+		FE5DB26E19F1836E00C0C3C9 /* PiterIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25619F1836E00C0C3C9 /* PiterIcon.png */; };
+		FE5DB26F19F1836E00C0C3C9 /* PiterLaugh.m4a in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25719F1836E00C0C3C9 /* PiterLaugh.m4a */; };
+		FE5DB27019F1836E00C0C3C9 /* sky.png in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25819F1836E00C0C3C9 /* sky.png */; };
+		FE5DB27119F1836E00C0C3C9 /* titles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25919F1836E00C0C3C9 /* titles.mp3 */; };
+		FE5DB27219F1836E00C0C3C9 /* Weird Bird song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE5DB25A19F1836E00C0C3C9 /* Weird Bird song.mp3 */; };
+		FE5DB27519F1856800C0C3C9 /* PSRPiterDreamScene.m in Sources */ = {isa = PBXBuildFile; fileRef = FE5DB27419F1856800C0C3C9 /* PSRPiterDreamScene.m */; };
 		FE675D1419F17F99000BCA08 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D1319F17F99000BCA08 /* QuartzCore.framework */; };
 		FE675D1619F17F99000BCA08 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D1519F17F99000BCA08 /* OpenGLES.framework */; };
 		FE675D1819F17F99000BCA08 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D1719F17F99000BCA08 /* OpenAL.framework */; };
@@ -18,10 +60,6 @@
 		FE675D2419F17F99000BCA08 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D2319F17F99000BCA08 /* CoreText.framework */; };
 		FE675D2619F17F99000BCA08 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D2519F17F99000BCA08 /* GLKit.framework */; };
 		FE675D2C19F17F99000BCA08 /* libObjectiveChipmunk.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FE675D2919F17F99000BCA08 /* libObjectiveChipmunk.a */; };
-		FE675D3019F17F99000BCA08 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D2F19F17F99000BCA08 /* Default.png */; };
-		FE675D3219F17F99000BCA08 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D3119F17F99000BCA08 /* Default@2x.png */; };
-		FE675D3419F17F99000BCA08 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D3319F17F99000BCA08 /* Default-568h@2x.png */; };
-		FE675D3619F17F99000BCA08 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D3519F17F99000BCA08 /* Default-Landscape~ipad.png */; };
 		FE675D3919F17F99000BCA08 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D3819F17F99000BCA08 /* Icon.png */; };
 		FE675D3B19F17F99000BCA08 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D3A19F17F99000BCA08 /* Icon@2x.png */; };
 		FE675D3D19F17F99000BCA08 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = FE675D3C19F17F99000BCA08 /* Icon-72.png */; };
@@ -202,6 +240,8 @@
 		FE675F8F19F17F9C000BCA08 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FE675F8E19F17F9C000BCA08 /* AppDelegate.m */; };
 		FE675F9219F17F9C000BCA08 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = FE675F9119F17F9C000BCA08 /* HelloWorldScene.m */; };
 		FE675F9519F17F9C000BCA08 /* IntroScene.m in Sources */ = {isa = PBXBuildFile; fileRef = FE675F9419F17F9C000BCA08 /* IntroScene.m */; };
+		FE675FA019F18007000BCA08 /* MyCocos2DClass.m in Sources */ = {isa = PBXBuildFile; fileRef = FE675F9F19F18007000BCA08 /* MyCocos2DClass.m */; };
+		FE675FA319F1812E000BCA08 /* PSRMainMenuScene.m in Sources */ = {isa = PBXBuildFile; fileRef = FE675FA219F1812E000BCA08 /* PSRMainMenuScene.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -215,6 +255,49 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE5DB22019F1836400C0C3C9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Resources/Default-568h@2x.png"; sourceTree = "<group>"; };
+		FE5DB22119F1836400C0C3C9 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape~ipad.png"; path = "Resources/Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		FE5DB22219F1836400C0C3C9 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = Resources/Default.png; sourceTree = "<group>"; };
+		FE5DB22319F1836400C0C3C9 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Resources/Default@2x.png"; sourceTree = "<group>"; };
+		FE5DB22519F1836400C0C3C9 /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
+		FE5DB22619F1836400C0C3C9 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		FE5DB22719F1836400C0C3C9 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		FE5DB22819F1836400C0C3C9 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		FE5DB22919F1836400C0C3C9 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		FE5DB22A19F1836400C0C3C9 /* Icon-iPad-Spotlight-iOS7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-iPad-Spotlight-iOS7@2x.png"; sourceTree = "<group>"; };
+		FE5DB22B19F1836400C0C3C9 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		FE5DB22C19F1836400C0C3C9 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		FE5DB22D19F1836400C0C3C9 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		FE5DB22E19F1836400C0C3C9 /* Icon-Spotlight-iOS7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-iOS7.png"; sourceTree = "<group>"; };
+		FE5DB22F19F1836400C0C3C9 /* Icon-Spotlight-iOS7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-iOS7@2x.png"; sourceTree = "<group>"; };
+		FE5DB23019F1836400C0C3C9 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		FE5DB23119F1836400C0C3C9 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		FE5DB24319F1836E00C0C3C9 /* about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = about.png; path = Resources/about.png; sourceTree = "<group>"; };
+		FE5DB24419F1836E00C0C3C9 /* disco song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "disco song.mp3"; path = "Resources/disco song.mp3"; sourceTree = "<group>"; };
+		FE5DB24519F1836E00C0C3C9 /* donut_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = donut_small.png; path = Resources/donut_small.png; sourceTree = "<group>"; };
+		FE5DB24619F1836E00C0C3C9 /* family-guy-mobile-game.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "family-guy-mobile-game.jpg"; path = "Resources/family-guy-mobile-game.jpg"; sourceTree = "<group>"; };
+		FE5DB24719F1836E00C0C3C9 /* lake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lake.png; path = Resources/lake.png; sourceTree = "<group>"; };
+		FE5DB24819F1836E00C0C3C9 /* MarioTube_Body_Rev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTube_Body_Rev.png; path = Resources/MarioTube_Body_Rev.png; sourceTree = "<group>"; };
+		FE5DB24919F1836E00C0C3C9 /* MarioTube_Body.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTube_Body.png; path = Resources/MarioTube_Body.png; sourceTree = "<group>"; };
+		FE5DB24A19F1836E00C0C3C9 /* MarioTube_Down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTube_Down.png; path = Resources/MarioTube_Down.png; sourceTree = "<group>"; };
+		FE5DB24B19F1836E00C0C3C9 /* MarioTube_Top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTube_Top.png; path = Resources/MarioTube_Top.png; sourceTree = "<group>"; };
+		FE5DB24C19F1836E00C0C3C9 /* MarioTubePlant_2_closed_Rev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_2_closed_Rev.png; path = Resources/MarioTubePlant_2_closed_Rev.png; sourceTree = "<group>"; };
+		FE5DB24D19F1836E00C0C3C9 /* MarioTubePlant_2_closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_2_closed.png; path = Resources/MarioTubePlant_2_closed.png; sourceTree = "<group>"; };
+		FE5DB24E19F1836E00C0C3C9 /* MarioTubePlant_2_open_Rev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_2_open_Rev.png; path = Resources/MarioTubePlant_2_open_Rev.png; sourceTree = "<group>"; };
+		FE5DB24F19F1836E00C0C3C9 /* MarioTubePlant_2_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_2_open.png; path = Resources/MarioTubePlant_2_open.png; sourceTree = "<group>"; };
+		FE5DB25019F1836E00C0C3C9 /* MarioTubePlant_closed_Rev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_closed_Rev.png; path = Resources/MarioTubePlant_closed_Rev.png; sourceTree = "<group>"; };
+		FE5DB25119F1836E00C0C3C9 /* MarioTubePlant_closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_closed.png; path = Resources/MarioTubePlant_closed.png; sourceTree = "<group>"; };
+		FE5DB25219F1836E00C0C3C9 /* MarioTubePlant_open_Rev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_open_Rev.png; path = Resources/MarioTubePlant_open_Rev.png; sourceTree = "<group>"; };
+		FE5DB25319F1836E00C0C3C9 /* MarioTubePlant_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MarioTubePlant_open.png; path = Resources/MarioTubePlant_open.png; sourceTree = "<group>"; };
+		FE5DB25419F1836E00C0C3C9 /* menu@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "menu@2x.jpg"; path = "Resources/menu@2x.jpg"; sourceTree = "<group>"; };
+		FE5DB25519F1836E00C0C3C9 /* piter lauph samples.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "piter lauph samples.mp3"; path = "Resources/piter lauph samples.mp3"; sourceTree = "<group>"; };
+		FE5DB25619F1836E00C0C3C9 /* PiterIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = PiterIcon.png; path = Resources/PiterIcon.png; sourceTree = "<group>"; };
+		FE5DB25719F1836E00C0C3C9 /* PiterLaugh.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = PiterLaugh.m4a; path = Resources/PiterLaugh.m4a; sourceTree = "<group>"; };
+		FE5DB25819F1836E00C0C3C9 /* sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sky.png; path = Resources/sky.png; sourceTree = "<group>"; };
+		FE5DB25919F1836E00C0C3C9 /* titles.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = titles.mp3; path = Resources/titles.mp3; sourceTree = "<group>"; };
+		FE5DB25A19F1836E00C0C3C9 /* Weird Bird song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Weird Bird song.mp3"; path = "Resources/Weird Bird song.mp3"; sourceTree = "<group>"; };
+		FE5DB27319F1856800C0C3C9 /* PSRPiterDreamScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PSRPiterDreamScene.h; path = ../PSRPiterDreamScene.h; sourceTree = "<group>"; };
+		FE5DB27419F1856800C0C3C9 /* PSRPiterDreamScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PSRPiterDreamScene.m; path = ../PSRPiterDreamScene.m; sourceTree = "<group>"; };
 		FE675D1019F17F99000BCA08 /* HarryGuy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HarryGuy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE675D1319F17F99000BCA08 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		FE675D1519F17F99000BCA08 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -227,10 +310,6 @@
 		FE675D2319F17F99000BCA08 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		FE675D2519F17F99000BCA08 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		FE675D2919F17F99000BCA08 /* libObjectiveChipmunk.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libObjectiveChipmunk.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		FE675D2F19F17F99000BCA08 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = Resources/Default.png; sourceTree = "<group>"; };
-		FE675D3119F17F99000BCA08 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Resources/Default@2x.png"; sourceTree = "<group>"; };
-		FE675D3319F17F99000BCA08 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Resources/Default-568h@2x.png"; sourceTree = "<group>"; };
-		FE675D3519F17F99000BCA08 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Landscape~ipad.png"; path = "Resources/Default-Landscape~ipad.png"; sourceTree = "<group>"; };
 		FE675D3819F17F99000BCA08 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = Resources/Icons/Icon.png; sourceTree = "<group>"; };
 		FE675D3A19F17F99000BCA08 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "Resources/Icons/Icon@2x.png"; sourceTree = "<group>"; };
 		FE675D3C19F17F99000BCA08 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "Resources/Icons/Icon-72.png"; sourceTree = "<group>"; };
@@ -613,6 +692,10 @@
 		FE675F9119F17F9C000BCA08 /* HelloWorldScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HelloWorldScene.m; path = Classes/HelloWorldScene.m; sourceTree = "<group>"; };
 		FE675F9319F17F9C000BCA08 /* IntroScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = IntroScene.h; path = Classes/IntroScene.h; sourceTree = "<group>"; };
 		FE675F9419F17F9C000BCA08 /* IntroScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = IntroScene.m; path = Classes/IntroScene.m; sourceTree = "<group>"; };
+		FE675F9E19F18007000BCA08 /* MyCocos2DClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCocos2DClass.h; sourceTree = "<group>"; };
+		FE675F9F19F18007000BCA08 /* MyCocos2DClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCocos2DClass.m; sourceTree = "<group>"; };
+		FE675FA119F1812E000BCA08 /* PSRMainMenuScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PSRMainMenuScene.h; path = ../PSRMainMenuScene.h; sourceTree = "<group>"; };
+		FE675FA219F1812E000BCA08 /* PSRMainMenuScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PSRMainMenuScene.m; path = ../PSRMainMenuScene.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -637,6 +720,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FE5DB22419F1836400C0C3C9 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				FE5DB22519F1836400C0C3C9 /* Icon-120.png */,
+				FE5DB22619F1836400C0C3C9 /* Icon-72.png */,
+				FE5DB22719F1836400C0C3C9 /* Icon-72@2x.png */,
+				FE5DB22819F1836400C0C3C9 /* Icon-76.png */,
+				FE5DB22919F1836400C0C3C9 /* Icon-76@2x.png */,
+				FE5DB22A19F1836400C0C3C9 /* Icon-iPad-Spotlight-iOS7@2x.png */,
+				FE5DB22B19F1836400C0C3C9 /* Icon-Small-50.png */,
+				FE5DB22C19F1836400C0C3C9 /* Icon-Small.png */,
+				FE5DB22D19F1836400C0C3C9 /* Icon-Small@2x.png */,
+				FE5DB22E19F1836400C0C3C9 /* Icon-Spotlight-iOS7.png */,
+				FE5DB22F19F1836400C0C3C9 /* Icon-Spotlight-iOS7@2x.png */,
+				FE5DB23019F1836400C0C3C9 /* Icon.png */,
+				FE5DB23119F1836400C0C3C9 /* Icon@2x.png */,
+			);
+			name = Icons;
+			path = Resources/Icons;
+			sourceTree = "<group>";
+		};
 		FE675D0719F17F98000BCA08 = {
 			isa = PBXGroup;
 			children = (
@@ -675,6 +779,10 @@
 		FE675D2D19F17F99000BCA08 /* HarryGuy */ = {
 			isa = PBXGroup;
 			children = (
+				FE675FA119F1812E000BCA08 /* PSRMainMenuScene.h */,
+				FE675FA219F1812E000BCA08 /* PSRMainMenuScene.m */,
+				FE5DB27319F1856800C0C3C9 /* PSRPiterDreamScene.h */,
+				FE5DB27419F1856800C0C3C9 /* PSRPiterDreamScene.m */,
 				FE675D2E19F17F99000BCA08 /* Resources */,
 				FE675D5719F17F99000BCA08 /* Libraries */,
 				FE675F8C19F17F9C000BCA08 /* Classes */,
@@ -686,10 +794,35 @@
 		FE675D2E19F17F99000BCA08 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FE675D2F19F17F99000BCA08 /* Default.png */,
-				FE675D3119F17F99000BCA08 /* Default@2x.png */,
-				FE675D3319F17F99000BCA08 /* Default-568h@2x.png */,
-				FE675D3519F17F99000BCA08 /* Default-Landscape~ipad.png */,
+				FE5DB24319F1836E00C0C3C9 /* about.png */,
+				FE5DB24419F1836E00C0C3C9 /* disco song.mp3 */,
+				FE5DB24519F1836E00C0C3C9 /* donut_small.png */,
+				FE5DB24619F1836E00C0C3C9 /* family-guy-mobile-game.jpg */,
+				FE5DB24719F1836E00C0C3C9 /* lake.png */,
+				FE5DB24819F1836E00C0C3C9 /* MarioTube_Body_Rev.png */,
+				FE5DB24919F1836E00C0C3C9 /* MarioTube_Body.png */,
+				FE5DB24A19F1836E00C0C3C9 /* MarioTube_Down.png */,
+				FE5DB24B19F1836E00C0C3C9 /* MarioTube_Top.png */,
+				FE5DB24C19F1836E00C0C3C9 /* MarioTubePlant_2_closed_Rev.png */,
+				FE5DB24D19F1836E00C0C3C9 /* MarioTubePlant_2_closed.png */,
+				FE5DB24E19F1836E00C0C3C9 /* MarioTubePlant_2_open_Rev.png */,
+				FE5DB24F19F1836E00C0C3C9 /* MarioTubePlant_2_open.png */,
+				FE5DB25019F1836E00C0C3C9 /* MarioTubePlant_closed_Rev.png */,
+				FE5DB25119F1836E00C0C3C9 /* MarioTubePlant_closed.png */,
+				FE5DB25219F1836E00C0C3C9 /* MarioTubePlant_open_Rev.png */,
+				FE5DB25319F1836E00C0C3C9 /* MarioTubePlant_open.png */,
+				FE5DB25419F1836E00C0C3C9 /* menu@2x.jpg */,
+				FE5DB25519F1836E00C0C3C9 /* piter lauph samples.mp3 */,
+				FE5DB25619F1836E00C0C3C9 /* PiterIcon.png */,
+				FE5DB25719F1836E00C0C3C9 /* PiterLaugh.m4a */,
+				FE5DB25819F1836E00C0C3C9 /* sky.png */,
+				FE5DB25919F1836E00C0C3C9 /* titles.mp3 */,
+				FE5DB25A19F1836E00C0C3C9 /* Weird Bird song.mp3 */,
+				FE5DB22019F1836400C0C3C9 /* Default-568h@2x.png */,
+				FE5DB22119F1836400C0C3C9 /* Default-Landscape~ipad.png */,
+				FE5DB22219F1836400C0C3C9 /* Default.png */,
+				FE5DB22319F1836400C0C3C9 /* Default@2x.png */,
+				FE5DB22419F1836400C0C3C9 /* Icons */,
 				FE675D5219F17F99000BCA08 /* Info.plist */,
 				FE675D5319F17F99000BCA08 /* iTunesArtwork */,
 				FE675D5519F17F99000BCA08 /* iTunesArtwork@2x */,
@@ -1425,6 +1558,8 @@
 			children = (
 				FE675F8D19F17F9C000BCA08 /* AppDelegate.h */,
 				FE675F8E19F17F9C000BCA08 /* AppDelegate.m */,
+				FE675F9E19F18007000BCA08 /* MyCocos2DClass.h */,
+				FE675F9F19F18007000BCA08 /* MyCocos2DClass.m */,
 				FE675F9019F17F9C000BCA08 /* HelloWorldScene.h */,
 				FE675F9119F17F9C000BCA08 /* HelloWorldScene.m */,
 				FE675F9319F17F9C000BCA08 /* IntroScene.h */,
@@ -1501,28 +1636,65 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE675D3219F17F99000BCA08 /* Default@2x.png in Resources */,
+				FE5DB26919F1836E00C0C3C9 /* MarioTubePlant_closed.png in Resources */,
+				FE5DB26E19F1836E00C0C3C9 /* PiterIcon.png in Resources */,
+				FE5DB24119F1836400C0C3C9 /* Icon.png in Resources */,
 				FE675D4519F17F99000BCA08 /* Icon-120.png in Resources */,
+				FE5DB23919F1836400C0C3C9 /* Icon-76.png in Resources */,
 				FE675D3B19F17F99000BCA08 /* Icon@2x.png in Resources */,
+				FE5DB25D19F1836E00C0C3C9 /* donut_small.png in Resources */,
+				FE5DB23E19F1836400C0C3C9 /* Icon-Small@2x.png in Resources */,
+				FE5DB23C19F1836400C0C3C9 /* Icon-Small-50.png in Resources */,
 				FE675D4D19F17F99000BCA08 /* Icon-Small@2x.png in Resources */,
 				FE675D3F19F17F99000BCA08 /* Icon-72@2x.png in Resources */,
-				FE675D3019F17F99000BCA08 /* Default.png in Resources */,
+				FE5DB26F19F1836E00C0C3C9 /* PiterLaugh.m4a in Resources */,
+				FE5DB23419F1836400C0C3C9 /* Default.png in Resources */,
+				FE5DB24219F1836400C0C3C9 /* Icon@2x.png in Resources */,
+				FE5DB23719F1836400C0C3C9 /* Icon-72.png in Resources */,
+				FE5DB25B19F1836E00C0C3C9 /* about.png in Resources */,
+				FE5DB26619F1836E00C0C3C9 /* MarioTubePlant_2_open_Rev.png in Resources */,
+				FE5DB23D19F1836400C0C3C9 /* Icon-Small.png in Resources */,
 				FE675D3919F17F99000BCA08 /* Icon.png in Resources */,
+				FE5DB27219F1836E00C0C3C9 /* Weird Bird song.mp3 in Resources */,
+				FE5DB23819F1836400C0C3C9 /* Icon-72@2x.png in Resources */,
+				FE5DB25F19F1836E00C0C3C9 /* lake.png in Resources */,
 				FE675D4719F17F99000BCA08 /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */,
-				FE675D3619F17F99000BCA08 /* Default-Landscape~ipad.png in Resources */,
+				FE5DB23F19F1836400C0C3C9 /* Icon-Spotlight-iOS7.png in Resources */,
+				FE5DB23A19F1836400C0C3C9 /* Icon-76@2x.png in Resources */,
+				FE5DB26119F1836E00C0C3C9 /* MarioTube_Body.png in Resources */,
+				FE5DB26A19F1836E00C0C3C9 /* MarioTubePlant_open_Rev.png in Resources */,
+				FE5DB26C19F1836E00C0C3C9 /* menu@2x.jpg in Resources */,
+				FE5DB27119F1836E00C0C3C9 /* titles.mp3 in Resources */,
+				FE5DB26219F1836E00C0C3C9 /* MarioTube_Down.png in Resources */,
+				FE5DB26419F1836E00C0C3C9 /* MarioTubePlant_2_closed_Rev.png in Resources */,
+				FE5DB26319F1836E00C0C3C9 /* MarioTube_Top.png in Resources */,
 				FE675D4B19F17F99000BCA08 /* Icon-Small.png in Resources */,
+				FE5DB25E19F1836E00C0C3C9 /* family-guy-mobile-game.jpg in Resources */,
 				FE675D4919F17F99000BCA08 /* Icon-Small-50.png in Resources */,
 				FE675F8719F17F9C000BCA08 /* LICENSE_Chipmunk.txt in Resources */,
 				FE675D3D19F17F99000BCA08 /* Icon-72.png in Resources */,
+				FE5DB26819F1836E00C0C3C9 /* MarioTubePlant_closed_Rev.png in Resources */,
+				FE5DB27019F1836E00C0C3C9 /* sky.png in Resources */,
 				FE675F1919F17F9B000BCA08 /* LICENSE_CCBReader.txt in Resources */,
 				FE675E8919F17F9A000BCA08 /* LICENSE_cocos2d.txt in Resources */,
-				FE675D3419F17F99000BCA08 /* Default-568h@2x.png in Resources */,
+				FE5DB23219F1836400C0C3C9 /* Default-568h@2x.png in Resources */,
 				FE675D5419F17F99000BCA08 /* iTunesArtwork in Resources */,
+				FE5DB23319F1836400C0C3C9 /* Default-Landscape~ipad.png in Resources */,
+				FE5DB23519F1836400C0C3C9 /* Default@2x.png in Resources */,
+				FE5DB25C19F1836E00C0C3C9 /* disco song.mp3 in Resources */,
+				FE5DB26719F1836E00C0C3C9 /* MarioTubePlant_2_open.png in Resources */,
 				FE675D4F19F17F99000BCA08 /* Icon-Spotlight-iOS7.png in Resources */,
 				FE675D4319F17F99000BCA08 /* Icon-76@2x.png in Resources */,
 				FE675D5119F17F99000BCA08 /* Icon-Spotlight-iOS7@2x.png in Resources */,
+				FE5DB26019F1836E00C0C3C9 /* MarioTube_Body_Rev.png in Resources */,
 				FE675D4119F17F99000BCA08 /* Icon-76.png in Resources */,
+				FE5DB26519F1836E00C0C3C9 /* MarioTubePlant_2_closed.png in Resources */,
 				FE675D5619F17F99000BCA08 /* iTunesArtwork@2x in Resources */,
+				FE5DB23B19F1836400C0C3C9 /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */,
+				FE5DB23619F1836400C0C3C9 /* Icon-120.png in Resources */,
+				FE5DB26B19F1836E00C0C3C9 /* MarioTubePlant_open.png in Resources */,
+				FE5DB26D19F1836E00C0C3C9 /* piter lauph samples.mp3 in Resources */,
+				FE5DB24019F1836400C0C3C9 /* Icon-Spotlight-iOS7@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1541,6 +1713,7 @@
 				FE675EB119F17F9B000BCA08 /* ALChannelSource.m in Sources */,
 				FE675ED419F17F9B000BCA08 /* IOSVersion.m in Sources */,
 				FE675EBA19F17F9B000BCA08 /* ALListener.m in Sources */,
+				FE675FA319F1812E000BCA08 /* PSRMainMenuScene.m in Sources */,
 				FE675E5A19F17F9A000BCA08 /* CCGLView.m in Sources */,
 				FE675E4D19F17F9A000BCA08 /* CCGLView.m in Sources */,
 				FE675EA519F17F9A000BCA08 /* OALSimpleAudio.m in Sources */,
@@ -1587,6 +1760,7 @@
 				FE675D7F19F17F99000BCA08 /* CCRenderer.m in Sources */,
 				FE675E1419F17F9A000BCA08 /* CCSprite.m in Sources */,
 				FE675E9C19F17F9A000BCA08 /* OALAudioTrack.m in Sources */,
+				FE675FA019F18007000BCA08 /* MyCocos2DClass.m in Sources */,
 				FE675EDD19F17F9B000BCA08 /* NSMutableDictionary+WeakReferences.m in Sources */,
 				FE675D9B19F17F99000BCA08 /* CCActionManager.m in Sources */,
 				FE675DFD19F17F9A000BCA08 /* CCProgressNode.m in Sources */,
@@ -1626,6 +1800,7 @@
 				FE675DAB19F17F99000BCA08 /* CCClippingNode.m in Sources */,
 				FE675ED619F17F9B000BCA08 /* mach_timing.c in Sources */,
 				FE675E1019F17F9A000BCA08 /* CCScheduler.m in Sources */,
+				FE5DB27519F1856800C0C3C9 /* PSRPiterDreamScene.m in Sources */,
 				FE675E2E19F17F9A000BCA08 /* CCTiledMap.m in Sources */,
 				FE675D7019F17F99000BCA08 /* CCEffectColorPulse.m in Sources */,
 				FE675E0619F17F9A000BCA08 /* CCResponder.m in Sources */,
@@ -1859,6 +2034,7 @@
 				FE675F9A19F17F9C000BCA08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FE675F9B19F17F9C000BCA08 /* Build configuration list for PBXNativeTarget "HarryGuy" */ = {
 			isa = XCConfigurationList;
@@ -1867,6 +2043,7 @@
 				FE675F9D19F17F9C000BCA08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
